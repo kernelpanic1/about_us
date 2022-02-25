@@ -1,6 +1,6 @@
 ## Kernel Panic
 
-<center>About Us:</center>
+About Us:
 
 ### Our Team
 - Ishika Jain
